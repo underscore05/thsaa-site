@@ -1,0 +1,12 @@
+[22-May-2014 03:16:49] PHP Warning:  require(C:\Users\Richard Roque\www\thsaa_site\public/protected/config/main.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in D:\Study\yii-master\framework\yiilite.php on line 1156
+[22-May-2014 03:16:49] PHP Stack trace:
+[22-May-2014 03:16:49] PHP   1. {main}() C:\Users\Richard Roque\www\thsaa_site\public\index.php:0
+[22-May-2014 03:16:49] PHP   2. YiiBase::createWebApplication() C:\Users\Richard Roque\www\thsaa_site\public\index.php:13
+[22-May-2014 03:16:49] PHP   3. YiiBase::createApplication() D:\Study\yii-master\framework\yiilite.php:47
+[22-May-2014 03:16:49] PHP   4. CApplication->__construct() D:\Study\yii-master\framework\yiilite.php:55
+[22-May-2014 03:16:49] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required 'C:\Users\Richard Roque\www\thsaa_site\public/protected/config/main.php' (include_path='.;C:\xampp\php\PEAR') in D:\Study\yii-master\framework\yiilite.php on line 1156
+[22-May-2014 03:16:49] PHP Stack trace:
+[22-May-2014 03:16:49] PHP   1. {main}() C:\Users\Richard Roque\www\thsaa_site\public\index.php:0
+[22-May-2014 03:16:49] PHP   2. YiiBase::createWebApplication() C:\Users\Richard Roque\www\thsaa_site\public\index.php:13
+[22-May-2014 03:16:49] PHP   3. YiiBase::createApplication() D:\Study\yii-master\framework\yiilite.php:47
+[22-May-2014 03:16:49] PHP   4. CApplication->__construct() D:\Study\yii-master\framework\yiilite.php:55
